@@ -11,4 +11,4 @@ hostaddr = 192.168.1.3
 #port = 5432
 dbname = mail
 user = zeon
-password = ocean
+password = password
