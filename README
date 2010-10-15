@@ -1,0 +1,23 @@
+
+ Hotkeys:
+
+   Menu:
+   		Open			-	'F1' or 'ESC'
+   		Close			-	'F1' or 'ESC'
+		Navigation		-	arrows
+
+   List of databases/namespaces/tables:
+		Navigation		-	arrows
+		Choice			-	'Enter'
+
+   Table data:
+		Navigation		-	arrows
+		Edit record		-	'e'
+		Append record	-	'a' or 'i'
+		Delete record	-	'd'
+		Close			-	'x'
+
+   Record editing:
+		Next column 	-	'Tab' or 'Ctrl+N'
+		Previous column	-	'Ctrl+P'
+		Confirmation	-	'Enter'

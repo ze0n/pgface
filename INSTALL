@@ -1,0 +1,18 @@
+
+1.Dependences:
+  
+  * libpq
+  * libncurses
+  * libcdk          http://invisible-island.net/cdk/
+
+2.Installation:
+  
+  #make
+  
+3.Usage:
+
+  After building the main binary file will appear: "pgface". 
+  It works only with conf file in the same directory. So, place "pgface" and
+  "pgface.conf" into the target directory.
+
+
